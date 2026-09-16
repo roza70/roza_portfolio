@@ -104,7 +104,7 @@ export default function HeroSection() {
         >
           {/* Email */}
           <motion.a
-            href="https://mail.google.com/mail/?view=cm&fs=1&to=tahsinroza10@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=tahsinroza20@gmail.com"
             target="_blank"
             title="Email"
             whileHover={{ scale: 1.15 }}

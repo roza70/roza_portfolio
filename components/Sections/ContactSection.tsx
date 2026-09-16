@@ -33,10 +33,10 @@ export default function ContactSection() {
 
     emailjs
       .sendForm(
-        "service_9lh4sgs",
-        "template_exi4437",
+        "service_3s7fjv4",
+        "template_z4jqpvr",
         form.current,
-        "LjLj_LmuGHZPxmWC7",
+        "ogu28RvoUbDtQvm0J",
       )
       .then(
         () => {

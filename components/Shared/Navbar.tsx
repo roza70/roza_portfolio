@@ -83,7 +83,7 @@ export default function Navbar() {
 
         {/* CTA — full email on sm+, icon-only on mobile */}
         <a
-          href="https://mail.google.com/mail/?view=cm&fs=1&to=tahsinroza10@gmail.com"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=tahsinroza20@gmail.com"
           target="_blank"
           className="nav-cta-pill rounded-full shrink-0 flex items-center justify-center gap-1.5 transition-all
             w-8 h-8 sm:w-auto sm:h-auto sm:px-4 sm:py-2 md:px-5"
@@ -108,7 +108,7 @@ export default function Navbar() {
             className="hidden sm:inline text-xs sm:text-sm font-semibold tracking-wide truncate max-w-[130px] md:max-w-none"
             onClick={handleClick}
           >
-            tahsinroza10@gmail.com
+            tahsinroza20@gmail.com
           </span>
         </a>
       </motion.nav>
