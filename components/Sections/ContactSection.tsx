@@ -33,7 +33,7 @@ export default function ContactSection() {
 
     emailjs
       .sendForm(
-        "service_3s7fjv4",
+        "service_tn2ow4s",
         "template_z4jqpvr",
         form.current,
         "ogu28RvoUbDtQvm0J",
