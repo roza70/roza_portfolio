@@ -83,7 +83,7 @@ export default function HeroSection() {
           className="flex flex-col xs:flex-row flex-wrap items-center justify-center gap-3 sm:gap-4 pt-1 sm:pt-2"
         >
           <a
-            href="https://drive.google.com/file/d/1kjRz9U9Zetf_AzOYLyHS5fR2lJucIsxO/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1ubKLlhG-hzSgIVkdh8zSi_P9g1yA-w1J/view?usp=drive_link"
             target="_blank"
             className="btn-pixel inline-block font-[family-name:var(--font-pixel)] text-[10px] sm:text-xs md:text-sm bg-linear-to-b from-[#ffb7d5]/20  text-[#ffb7d5] border-2 border-[#ffb7d5] px-5 sm:px-6 py-3 sm:py-3.5 uppercase tracking-wider w-full xs:w-auto"
           >
